@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wenqi Ye"
-  pronouns         : "he"  
+  pronouns         : "He"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Electronic Science and Technology of China (UESTC) and the University of Glasgow (UoG)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2839851y@student.gla.ac.uk" 
 
   # Academic websites
   academia         : # URL
