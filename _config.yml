@@ -26,7 +26,7 @@ author:
   name             : "Wenqi Ye"
   pronouns         : "He"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : #"Earth"
   employer         : "University of Electronic Science and Technology of China (UESTC) and the University of Glasgow (UoG)"
   uri              : # URL
   email            : "2839851y@student.gla.ac.uk" 
