@@ -25,7 +25,7 @@ author:
   avatar           : "headimage.png"
   name             : "Wenqi Ye"
   pronouns         : "He"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "UESTC and UoG"
   uri              : # URL
