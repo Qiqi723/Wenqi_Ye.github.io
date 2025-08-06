@@ -41,7 +41,7 @@ Conducted the first modeling of an all-active intelligent reflecting surfaces (A
 Validated theoretical findings through numerical simulations, comparing and demonstrating the performance advantages of AIRS over passive intelligent reflecting surfaces (PIRS) in certain scenarios.
 
 Designed an IRS-user association algorithm for the downlink communication in a multi-IRS aided wireless network, which approximates the optimal solution with polynomial complexity.
-![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/profile.png)
+![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/homepage.png)
 
 Deep Learning Deployment on Brain-Computer Interface
 
