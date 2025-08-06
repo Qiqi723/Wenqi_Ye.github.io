@@ -30,6 +30,8 @@ This research proposes a novel strategy to represent the Radio Frequency Field (
 
 The proposed active selection mechanism is shown to benefit Gaussian Splatting (GS) models in both sparse- and dense-view regimes.
 
+![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/profile.png)
+
 5G-Advanced Technology Research
 
 Research Assistant | Advisors: Prof. Weidong Mei, Prof. Zhi Chen (UESTC) | Mar 2024 - Present
@@ -39,6 +41,7 @@ Conducted the first modeling of an all-active intelligent reflecting surfaces (A
 Validated theoretical findings through numerical simulations, comparing and demonstrating the performance advantages of AIRS over passive intelligent reflecting surfaces (PIRS) in certain scenarios.
 
 Designed an IRS-user association algorithm for the downlink communication in a multi-IRS aided wireless network, which approximates the optimal solution with polynomial complexity.
+![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/profile.png)
 
 Deep Learning Deployment on Brain-Computer Interface
 
@@ -49,6 +52,8 @@ Proposed DiffuCell, the first diffusion model applied to cell localization, addr
 Designed the Attention Map Guidance (AG) mechanism, solving the challenge of generating high-quality samples without external guidance in diffusion models, further enhancing the quality of density map generation and localization precision.
 
 Introduced a cell map fusion strategy to address the stochastic nature of diffusion model outputs by fusing multiple density maps, producing more complete localization results and achieving 93.6% precision.
+
+![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/profile.png)
 
 Publication
 ======
