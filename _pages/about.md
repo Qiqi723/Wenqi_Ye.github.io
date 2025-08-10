@@ -30,7 +30,7 @@ This research proposes a novel strategy to represent the Radio Frequency Field (
 
 The proposed active selection mechanism is shown to benefit Gaussian Splatting (GS) models in both sparse- and dense-view regimes.
 
-![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/profile.png)
+![A 3D model of a Radio Frequency Field using Gaussian Splatting](images/themes/homepage-dark.png)
 
 5G-Advanced Technology Research
 
