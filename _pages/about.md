@@ -22,7 +22,7 @@ Prof. Ruxiang Xu, School of Medicine, UESTC
 Research Experience
 ======
 
-![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/bio-photo.jpg)
+
 RF-3DGS: Wireless Channel Modeling
 
 Research Assistant | Advisor: Prof. Haijian Sun (University of Georgia) | May 2025 - Present
@@ -31,7 +31,7 @@ This research proposes a novel strategy to represent the Radio Frequency Field (
 
 The proposed active selection mechanism is shown to benefit Gaussian Splatting (GS) models in both sparse- and dense-view regimes.
 
-![A 3D model of a Radio Frequency Field using Gaussian Splatting(/images/themes/homepage-dark.png)
+![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/bio-photo.jpg)
 
 5G-Advanced Technology Research
 
