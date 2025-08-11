@@ -33,7 +33,7 @@ This research proposes a novel strategy to represent the Radio Frequency Field (
 
 The proposed active selection mechanism is shown to benefit Gaussian Splatting (GS) models in both sparse- and dense-view regimes.
 
-![MAP4](/images/3DRF.png)
+
 
 5G-Advanced Technology Research
 
@@ -44,7 +44,7 @@ Conducted the first modeling of an all-active intelligent reflecting surfaces (A
 Validated theoretical findings through numerical simulations, comparing and demonstrating the performance advantages of AIRS over passive intelligent reflecting surfaces (PIRS) in certain scenarios.
 
 Designed an IRS-user association algorithm for the downlink communication in a multi-IRS aided wireless network, which approximates the optimal solution with polynomial complexity.
-![MAP4](/images/MAP4.png)
+
 
 Deep Learning Deployment on Brain-Computer Interface
 
@@ -56,7 +56,6 @@ Designed the Attention Map Guidance (AG) mechanism, solving the challenge of gen
 
 Introduced a cell map fusion strategy to address the stochastic nature of diffusion model outputs by fusing multiple density maps, producing more complete localization results and achieving 93.6% precision.
 
-![MAP4](/images/cell.png)
 
 Publication
 ======
