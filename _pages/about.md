@@ -22,6 +22,7 @@ Prof. Ruxiang Xu, School of Medicine, UESTC
 Research Experience
 ======
 
+![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/bio-photo.jpg)
 RF-3DGS: Wireless Channel Modeling
 
 Research Assistant | Advisor: Prof. Haijian Sun (University of Georgia) | May 2025 - Present
