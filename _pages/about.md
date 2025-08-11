@@ -18,7 +18,7 @@ I am very fortunate to be advised by the following professors on my research jou
 Prof. Weidong Mei & Prof. Zhi Chen, National Key Laboratory of Science and Technology on Communications, UESTC
 
 Prof. Ruxiang Xu, School of Medicine, UESTC
-![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/bio-photo.jpg)
+![MAP4](images/MAP4.png)
 
 
 Research Experience
