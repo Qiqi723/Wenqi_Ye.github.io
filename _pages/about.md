@@ -33,7 +33,7 @@ This research proposes a novel strategy to represent the Radio Frequency Field (
 
 The proposed active selection mechanism is shown to benefit Gaussian Splatting (GS) models in both sparse- and dense-view regimes.
 
-![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/bio-photo.jpg)
+![MAP4](/images/3DRF.png)
 
 5G-Advanced Technology Research
 
@@ -44,7 +44,7 @@ Conducted the first modeling of an all-active intelligent reflecting surfaces (A
 Validated theoretical findings through numerical simulations, comparing and demonstrating the performance advantages of AIRS over passive intelligent reflecting surfaces (PIRS) in certain scenarios.
 
 Designed an IRS-user association algorithm for the downlink communication in a multi-IRS aided wireless network, which approximates the optimal solution with polynomial complexity.
-![A 3D model of a Radio Frequency Field using Gaussian Splatting](/images/homepage.png)
+![MAP4](/images/MAP4.png)
 
 Deep Learning Deployment on Brain-Computer Interface
 
