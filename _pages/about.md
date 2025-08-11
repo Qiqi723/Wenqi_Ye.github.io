@@ -18,7 +18,7 @@ I am very fortunate to be advised by the following professors on my research jou
 Prof. Weidong Mei & Prof. Zhi Chen, National Key Laboratory of Science and Technology on Communications, UESTC
 
 Prof. Ruxiang Xu, School of Medicine, UESTC
-![MAP4](images/MAP4.png)
+![MAP4](/images/MAP4.png)
 
 
 Research Experience
