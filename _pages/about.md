@@ -86,3 +86,4 @@ Ongoing Project
 Awards
 ======
 The Mathematical Contest in Modeling (MCM) Finalist Awards (Top 1%)
+![award](./images/$GX3SM2VSA}OB(}91X{4N7S.png)
