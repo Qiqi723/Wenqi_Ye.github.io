@@ -27,7 +27,15 @@ Prof. Ruxiang Xu, School of Medicine, UESTC
 
 Research Experience
 ======
+<div>
+<img class="postimg" src="/images/bio-photo.jpg" width="400px"/>
+<div class="caption">崔院士现场</div>
+</div>
 
+<div>
+<img class="postimg" src="/images/headimage.jpg" width="400px"/>
+<div class="caption">崔院士现场</div>
+</div>
 
 RF-3DGS: Wireless Channel Modeling
 
@@ -36,7 +44,10 @@ Research Assistant | Advisor: Prof. Haijian Sun (University of Georgia) | May 20
 This research proposes a novel strategy to represent the Radio Frequency Field (RRF) by integrating visual and radio data, aiming to overcome the limitations of using only wireless samples.
 
 The proposed active selection mechanism is shown to benefit Gaussian Splatting (GS) models in both sparse- and dense-view regimes.
-
+<div>
+<img class="postimg" src="/images/3DRF.png" width="400px"/>
+<div class="caption">崔院士现场</div>
+</div>
 
 
 5G-Advanced Technology Research
