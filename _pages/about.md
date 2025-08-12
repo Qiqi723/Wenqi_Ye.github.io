@@ -17,9 +17,9 @@ I am very fortunate to be advised by the following professors on my research jou
 
 Prof. [Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm)  & Prof. Zhi Chen, National Key Laboratory of Science and Technology on Communications, UESTC
 
-Prof. Ruxiang Xu, School of Medicine, UESTC
+Prof. [Ruxiang Xu](https://www.med.uestc.edu.cn/info/1310/2343.htm), School of Medicine, UESTC
 
-Prof. Haijian Sun, University of Georiga
+Prof. [Haijian Sun](https://esi.uga.edu/), University of Georiga
 
 
 
