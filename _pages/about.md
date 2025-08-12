@@ -19,7 +19,7 @@ Prof. Weidong Mei & Prof. Zhi Chen, National Key Laboratory of Science and Techn
 
 Prof. Ruxiang Xu, School of Medicine, UESTC
 
-![MAP4](./images/MAP4.png)
+Prof. Haijian Sun, University of Georiga
 
 
 
@@ -36,7 +36,7 @@ This research proposes a novel strategy to represent the Radio Frequency Field (
 The proposed active selection mechanism is shown to benefit Gaussian Splatting (GS) models in both sparse- and dense-view regimes.
 
 
-![3DGS](./images/3DGS.png)
+![3DGS](./images/3DRF.png)
 
 
 5G-Advanced Technology Research
