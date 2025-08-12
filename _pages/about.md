@@ -42,6 +42,7 @@ The proposed active selection mechanism is shown to benefit Gaussian Splatting (
 **5G-Advanced Technology Research**
 
 Research Assistant | Advisors: Prof. Weidong Mei, Prof. Zhi Chen (UESTC) | Mar 2024 - Present
+
 **（1）Multi-active intelligent reflecting surfaces aided wireless network**
 
 Conducted the first modeling of an all-active intelligent reflecting surfaces (AIRS)-assisted wireless network.
