@@ -34,6 +34,8 @@ Research Assistant | Advisor: Prof. Haijian Sun (University of Georgia) | May 20
 This research proposes a novel strategy to represent the Radio Frequency Field (RRF) by integrating visual and radio data, aiming to overcome the limitations of using only wireless samples.
 
 The proposed active selection mechanism is shown to benefit Gaussian Splatting (GS) models in both sparse- and dense-view regimes.
+
+
 ![3DGS](./images/3DGS.png)
 
 
@@ -47,6 +49,7 @@ Validated theoretical findings through numerical simulations, comparing and demo
 
 Designed an IRS-user association algorithm for the downlink communication in a multi-IRS aided wireless network, which approximates the optimal solution with polynomial complexity.
 
+![MAP4](./images/MAP4.png)
 
 Deep Learning Deployment on Brain-Computer Interface
 
