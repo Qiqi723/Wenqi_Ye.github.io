@@ -67,7 +67,7 @@ Designed the Attention Map Guidance (AG) mechanism, solving the challenge of gen
 
 Introduced a cell map fusion strategy to address the stochastic nature of diffusion model outputs by fusing multiple density maps, producing more complete localization results and achieving 93.6% precision.
 
-![MAP4](./images/cell.png)
+![cell](./images/cell.png)
 
 Publication
 ======
