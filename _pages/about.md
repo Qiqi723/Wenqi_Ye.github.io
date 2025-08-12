@@ -27,7 +27,7 @@ Research Experience
 ======
 
 
-RF-3DGS: Wireless Channel Modeling
+**RF-3DGS: Wireless Channel Modeling**
 
 Research Assistant | Advisor: Prof. Haijian Sun (University of Georgia) | May 2025 - Present
 
@@ -39,9 +39,10 @@ The proposed active selection mechanism is shown to benefit Gaussian Splatting (
 ![3DGS](./images/3DRF.png)
 
 
-5G-Advanced Technology Research
+**5G-Advanced Technology Research**
 
 Research Assistant | Advisors: Prof. Weidong Mei, Prof. Zhi Chen (UESTC) | Mar 2024 - Present
+**（1）Multi-active intelligent reflecting surfaces aided wireless network**
 
 Conducted the first modeling of an all-active intelligent reflecting surfaces (AIRS)-assisted wireless network.
 
@@ -50,6 +51,11 @@ Validated theoretical findings through numerical simulations, comparing and demo
 Designed an IRS-user association algorithm for the downlink communication in a multi-IRS aided wireless network, which approximates the optimal solution with polynomial complexity.
 
 ![MAP4](./images/MAP4.png)
+
+**（2）Performance Analysis and Reflection Optimization for
+Wideband THz Hybrid-IRS Aided Wireless
+Communication(ongoing)**
+
 
 Deep Learning Deployment on Brain-Computer Interface
 
@@ -61,6 +67,7 @@ Designed the Attention Map Guidance (AG) mechanism, solving the challenge of gen
 
 Introduced a cell map fusion strategy to address the stochastic nature of diffusion model outputs by fusing multiple density maps, producing more complete localization results and achieving 93.6% precision.
 
+![MAP4](./images/cell.png)
 
 Publication
 ======
