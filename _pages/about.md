@@ -15,7 +15,7 @@ My research interests are primarily in Next-Generation Wireless Communications (
 
 I am very fortunate to be advised by the following professors on my research journey:
 
-Prof. Weidong Mei & Prof. Zhi Chen, National Key Laboratory of Science and Technology on Communications, UESTC
+Prof. [Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm)  & Prof. Zhi Chen, National Key Laboratory of Science and Technology on Communications, UESTC
 
 Prof. Ruxiang Xu, School of Medicine, UESTC
 
