@@ -53,12 +53,10 @@ Designed an IRS-user association algorithm for the downlink communication in a m
 
 ![MAP4](./images/MAP4.png)
 
-**（2）Performance Analysis and Reflection Optimization for
-Wideband THz Hybrid-IRS Aided Wireless
-Communication(ongoing)**
+**（2）Beamforming Design for Hybrid Active-Passive Double-IRS Aided Wideband THz Communications(ongoing)**
 
 
-Deep Learning Deployment on Brain-Computer Interface
+**Deep Learning Deployment on Brain-Computer Interface**
 
 Research Assistant | Advisor: Prof. Ruxiang Xu (UESTC) | Aug 2023 - Jun 2024
 
