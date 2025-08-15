@@ -81,7 +81,7 @@ wireless network”(accepted by PIMRC 2025)
 
 Ongoing Project
 ======
-
+（1）Beamforming Design for Hybrid Active-Passive Double-IRS Aided Wideband THz Communications
 
 Awards
 ======
