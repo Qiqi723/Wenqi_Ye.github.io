@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Homepage"
+title                    : "Wenqi Ye"
 title_separator          : "-"
 name                     : &name "Wenqi Ye"
 description              : &description "Wenqi Ye — M.S. student at UC San Diego and Inference Engineer at Inco AI, working on efficient LLM and video inference."
