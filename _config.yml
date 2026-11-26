@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Wenqi Ye Academic Page"
+title                    : "Wenqi Ye"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Wenqi Ye"
+description              : &description "Wenqi Ye — M.S. student at UC San Diego and Inference Engineer at Inco AI, working on efficient LLM and video inference."
 url                      : https://qiqi723.github.io/Wenqi_Ye.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,11 +26,11 @@ author:
   #avatar           : "profile.png"
   name             : "Wenqi Ye"
   pronouns         : "He"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : #"Earth"
-  employer         : "UESTC and UoG"
+  bio              : "M.S. CE @ UC San Diego · Inference Engineer @ Inco AI"
+  location         : "San Diego, CA"
+  employer         : "UC San Diego · Inco AI"
   uri              : # URL
-  email            : "2839851y@student.gla.ac.uk" 
+  email            : "w4ye@ucsd.edu"
 
   # Academic websites
   academia         : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "Qiqi723"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
